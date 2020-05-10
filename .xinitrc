@@ -1,0 +1,22 @@
+# Setts key map
+setkbmap pl &
+
+# Monitor setting
+xrandr --output eDP1 --primary --left-of  HDMI1 --auto
+
+# Setts wallpaper
+xwallpaper --zoom ~/.config/wall.png
+
+# Xresources file read
+xrdb -merge ~/.Xresources
+
+# Starts music player
+mpd &
+
+# Starts compton
+picom &
+
+# Window Manager start
+ssh-agent dwm
+
+

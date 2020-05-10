@@ -1,0 +1,60 @@
+!------------------------------------------------
+! CURSOR SETTINGS
+!------------------------------------------------
+
+Xcursor.theme: Simple-and-Soft
+
+!------------------------------------------------
+
+!------------------------------------------------
+! ST FONTS
+!------------------------------------------------
+
+st.alpha: 0.92
+st.font: FiraCode-9
+st.boldFont: FiraCode-9
+st.termname: st-256color
+
+!-----------------------------------------------
+
+!------------------------------------------------
+! ST COLORS
+!------------------------------------------------
+
+*.highlightColor: #2E2E2C
+*.cursorColor: white
+*.foreground:  #d6dbe5
+*.background:  #131313
+
+*.color0:      #1f1f1f
+*.color8:      #696969
+*.color1:      #f81118
+*.color9:      #de352e
+*.color2:      #2dc55e
+*.color10:     #1dd361
+*.color3:      #ecba0f
+*.color11:     #f3bd09
+*.color4:      #2a84d2
+*.color12:     #1081d6
+*.color5:      #4e5ab7
+*.color13:     #5350b9
+*.color6:      #1081d6
+*.color14:     #0f7ddb
+*.color7:      #d6dbe5
+*.color15:     #ffffff
+*.colorBD:     #d6dbe5
+
+!-------------------------------------------------
+
+! ------------------------------------------------
+! ROFI COLOR THEME
+! ------------------------------------------------
+
+rofi.font: Liberation Mono 9
+rofi.width: 15
+rofi.lines: 12
+rofi.color-enabled: true
+rofi.color-window: #131313, #131313, #131313
+rofi.color-normal: #131313, #d6dbe5, #131313, #2dc55e, #131313
+rofi.color-active: #131313, #d6dbe5, #131313, #2dc55e, #131313
+rofi.color-urgent: #131313, #d6dbe5, #131313, #2dc55e, #131313
