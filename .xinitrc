@@ -7,6 +7,9 @@ xrandr --output eDP1 --primary --left-of  HDMI1 --auto
 # Setts wallpaper
 xwallpaper --zoom ~/.config/wall.png
 
+# Pywal
+wal -R
+
 # Xresources file read
 xrdb -merge ~/.Xresources
 
