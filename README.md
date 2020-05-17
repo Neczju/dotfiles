@@ -1,7 +1,7 @@
 ![Image](https://raw.githubusercontent.com/Neczju/dotfiles/master/ss/ss1.png)
 # Details
 * **Window Manager** : [dwm](https://github.com/Neczju/dwm)
-* **Bar** : [dwmblocks](https://github.com/LukeSmithxyz/dwmblocks)
+* **Bar** : default
 * **Program Launcher** : [rofi](https://github.com/davatorium/rofi)
 * **Package Manager** : [yay](https://github.com/Jguer/yay)
 * **GUI File Manager** : [PCManFM](https://wiki.lxde.org/en/PCManFM)
