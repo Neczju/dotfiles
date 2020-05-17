@@ -1,10 +1,11 @@
 ![Image](https://raw.githubusercontent.com/Neczju/dotfiles/master/ss/ss1.png)
 # Details
 * **Window Manager** : [dwm](https://github.com/Neczju/dwm)
-* **Bar** : dwmblocks
+* **Bar** : [dwmblocks](https://github.com/LukeSmithxyz/dwmblocks)
 * **Program Launcher** : [rofi](https://github.com/davatorium/rofi)
+* **Package Manager** : [yay](https://github.com/Jguer/yay)
 * **GUI File Manager** : [PCManFM](https://wiki.lxde.org/en/PCManFM)
-* **CLI File Manager** : [ranger](https://github.com/ranger/ranger)
+* **CLI File Manager** : [lf](https://github.com/gokcehan/lf)
 * **Image Viewer** : [Feh](https://github.com/derf/feh)
 * **SS** : [scrot](https://github.com/resurrecting-open-source-projects/scrot)
 * **Terminal** : [st](https://github.com/LukeSmithxyz/st)
