@@ -2,8 +2,8 @@
 ![Image](https://raw.githubusercontent.com/Neczju/dotfiles/master/ss/ss2.png)
 # Details
 * **Window Manager** : [dwm](https://github.com/Neczju/dwm)
-* **Bar** : default
-* **Program Launcher** : [rofi](https://github.com/davatorium/rofi)
+* **Bar** : soon
+* **Program Launcher** : [dmenu](https://tools.suckless.org/dmenu/)
 * **Package Manager** : [yay](https://github.com/Jguer/yay)
 * **GUI File Manager** : [PCManFM](https://wiki.lxde.org/en/PCManFM)
 * **CLI File Manager** : [lf](https://github.com/gokcehan/lf)
