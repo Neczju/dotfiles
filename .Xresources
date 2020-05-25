@@ -10,22 +10,32 @@ Xcursor.theme: Simple-and-Soft
 ! ST FONTS
 !------------------------------------------------
 
-st.alpha: 0.8
+st.alpha: 0.7
 st.font: FiraCode-9
 st.boldFont: FiraCode-9
 st.termname: st-256color
 
-!-----------------------------------------------
+!------------------------------------------------
+! ST COLORSHEME (from pywal)
+!------------------------------------------------
+!*.foreground:   #d3dfd8
+!*.background:    #0E1110
+!*.color0:        #0E1110
+!*.color1:        #26BB9A
+!*.color10:       #6E948D
+!*.color11:       #96B5AC
+!*.color12:       #9EC1B3
+!*.color13:       #ADC8BA
+!*.color14:       #C2D7BD
+!*.color15:       #d3dfd8
+!*.color2:        #6E948D
+!*.color3:        #96B5AC
+!*.color4:        #9EC1B3
+!*.color5:        #ADC8BA
+!*.color6:        #C2D7BD
+!*.color66:       #0E1110
+!*.color7:        #d3dfd8
+!*.color8:        #939c97
+!*.color9:        #26BB9A
 
-! ------------------------------------------------
-! ROFI COLOR THEME
-! ------------------------------------------------
-
-rofi.font: Liberation Mono 9
-rofi.width: 15
-rofi.lines: 12
-rofi.color-enabled: true
-rofi.color-window: #000000, #000000, #000000
-rofi.color-normal: #000000, #636363, #000000, #636363, #000000
-rofi.color-active: #000000, #636363, #000000, #636363, #000000
-rofi.color-urgent: #000000, #636363, #000000, #636363, #000000
+!------------------------------------------------
