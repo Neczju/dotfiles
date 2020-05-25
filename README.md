@@ -1,4 +1,4 @@
-![Image](https://raw.githubusercontent.com/Neczju/dotfiles/master/ss/ss1.png)
+![Image](https://raw.githubusercontent.com/Neczju/dotfiles/master/ss/ss.png)
 # Details
 * **Window Manager** : [dwm](https://github.com/Neczju/dwm)
 * **Bar** : default
