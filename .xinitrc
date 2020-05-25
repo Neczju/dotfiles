@@ -19,5 +19,9 @@ mpd &
 # Starts compton
 picom &
 
+# Statusbar soon
+xsetroot -name "[$(hostname)]"
+
 # Window Manager start
 ssh-agent dwm
+
