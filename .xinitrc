@@ -5,7 +5,7 @@ setkbmap pl &
 xrandr --output eDP1 --primary --left-of  HDMI1 --auto
 
 # Setts wallpaper
-xwallpaper --zoom ~/.config/wall.png
+xwallpaper --zoom ~/.config/wall.jpg
 
 # Pywal
 wal -R
@@ -21,5 +21,3 @@ picom &
 
 # Window Manager start
 ssh-agent dwm
-
-
