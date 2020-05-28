@@ -4,6 +4,7 @@
 * **Window Manager** : [dwm](https://github.com/Neczju/dwm)
 * **Bar** : soon
 * **Program Launcher** : [dmenu](https://tools.suckless.org/dmenu/)
+* **Colors** : [pywal](https://github.com/dylanaraps/pywal)
 * **Package Manager** : [yay](https://github.com/Jguer/yay)
 * **GUI File Manager** : [PCManFM](https://wiki.lxde.org/en/PCManFM)
 * **CLI File Manager** : [lf](https://github.com/gokcehan/lf)
