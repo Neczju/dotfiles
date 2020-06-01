@@ -8,7 +8,7 @@
 * **Package Manager** : [yay](https://github.com/Jguer/yay)
 * **GUI File Manager** : [PCManFM](https://wiki.lxde.org/en/PCManFM)
 * **CLI File Manager** : [lf](https://github.com/gokcehan/lf)
-* **Image Viewer** : [Feh](https://github.com/derf/feh)
+* **Image Viewer** : [sxiv](https://github.com/muennich/sxiv)
 * **SS** : [scrot](https://github.com/resurrecting-open-source-projects/scrot)
 * **Terminal** : [st](https://github.com/LukeSmithxyz/st)
 * **IDE** : [neovim](https://github.com/neovim/neovim)
