@@ -6,7 +6,7 @@
 * **Program Launcher** : [dmenu](https://tools.suckless.org/dmenu/)
 * **Colors** : [pywal](https://github.com/dylanaraps/pywal)
 * **GUI File Manager** : [PCManFM](https://wiki.lxde.org/en/PCManFM)
-* **CLI File Manager** : [fff](httpsttps://github.com/gokcehan/lf://github.com/dylanaraps/fff)
+* **CLI File Manager** : [fff](https://github.com/dylanaraps/fff)
 * **Image Viewer** : [sxiv](https://github.com/muennich/sxiv)
 * **SS** : [scrot](https://github.com/resurrecting-open-source-projects/scrot)
 * **Terminal** : [st](https://github.com/LukeSmithxyz/st)
